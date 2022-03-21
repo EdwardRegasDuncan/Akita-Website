@@ -1660,28 +1660,28 @@ input, select, textarea {
 			opacity: 0;
 		}
  /* columns */
-		.column {
+		.profilecolumn {
 			float: left;
 			width: 25%;
 			padding-top: 30px;
 		}
 
-		.column h3 {
+		.profilecolumn h3 {
 			text-align: center;
 		}
 
-		.column h5 {
+		.profilecolumn h5 {
 			text-align: center;
 		}
 
-		.column ul {
+		.profilecolumn ul {
 			display: table;
 			margin: 0 auto;
 		}
 
 		@media screen and (max-width: 650px){
 
-			.column {
+			.profilecolumn {
 				width: 100%;
 				display: block;
 			}
@@ -1692,4 +1692,14 @@ input, select, textarea {
 			padding-left: 10px;
 			padding-right: 10px;
 			border-radius: 50%;
+		}
+
+ /* blog stuff */
+
+		
+
+		.card {
+			background-color: #414a52;
+			padding: 20px;
+			margin-top: 20px;
 		}
