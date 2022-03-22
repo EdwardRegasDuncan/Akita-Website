@@ -1670,6 +1670,10 @@ input, select, textarea {
 			text-align: center;
 		}
 
+		.profilecolumn h4 {
+			text-align: center;
+		}
+
 		.profilecolumn h5 {
 			text-align: center;
 		}
